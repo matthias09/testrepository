@@ -1,6 +1,6 @@
-Name          Surname         Country Code        Phone
-Marco         borg            1124                99463728
-Massimo       Abela           99                  99474756
-Luke          Azzopardi       4747                79856436
-Jake          Buhagiar        489                 79464637
-Jade          Ellul           3927                99478533
+Name          Surname         Country Code        Phone         Email
+Marco         borg            1124                99463728      marco@gmail.com
+Massimo       Abela           99                  99474756      mas@gmail.com
+Luke          Azzopardi       4747                79856436      luke1@gmail.com
+Jake          Buhagiar        489                 79464637      jake@gmail.com
+Jade          Ellul           3927                99478533      jadeE@gmail.com
